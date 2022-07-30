@@ -25,7 +25,7 @@ namespace Product.API.Controllers
         public IActionResult Create(CreateProductDto dto)
         {
             
-            return Ok($"this api should add products ");
+            return Ok(_productService.Create(dto));
         }
         [HttpPut]
         public IActionResult Update(UpdateProductDto dto)

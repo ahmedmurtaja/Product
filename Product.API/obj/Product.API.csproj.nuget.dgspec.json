@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AhmedIzz\\source\\repos\\GSG\\Product\\Product.API\\Product.API.csproj": {}
+    "C:\\Users\\AhmedIzz\\Desktop\\New folder (3)\\Product\\Product.API\\Product.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AhmedIzz\\source\\repos\\GSG\\Product\\Product.API\\Product.API.csproj": {
+    "C:\\Users\\AhmedIzz\\Desktop\\New folder (3)\\Product\\Product.API\\Product.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AhmedIzz\\source\\repos\\GSG\\Product\\Product.API\\Product.API.csproj",
+        "projectUniqueName": "C:\\Users\\AhmedIzz\\Desktop\\New folder (3)\\Product\\Product.API\\Product.API.csproj",
         "projectName": "Product.API",
-        "projectPath": "C:\\Users\\AhmedIzz\\source\\repos\\GSG\\Product\\Product.API\\Product.API.csproj",
+        "projectPath": "C:\\Users\\AhmedIzz\\Desktop\\New folder (3)\\Product\\Product.API\\Product.API.csproj",
         "packagesPath": "C:\\Users\\AhmedIzz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AhmedIzz\\source\\repos\\GSG\\Product\\Product.API\\obj\\",
+        "outputPath": "C:\\Users\\AhmedIzz\\Desktop\\New folder (3)\\Product\\Product.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
