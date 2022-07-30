@@ -22,13 +22,13 @@ namespace Product.API.Controllers
             return Ok(_productService.Get(Id));
         }
         [HttpPost]
-        public IActionResult Create(CreateProductDto dto)
+        public IActionResult Create([FromBody]CreateProductDto dto)
         {
             
             return Ok(_productService.Create(dto));
         }
         [HttpPut]
-        public IActionResult Update(UpdateProductDto dto)
+        public IActionResult Update([FromBody]UpdateProductDto dto)
         {
             return Ok(_productService.Update(dto));
         }
