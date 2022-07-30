@@ -30,7 +30,7 @@ namespace Product.API.Controllers
         [HttpPut]
         public IActionResult Update(UpdateProductDto dto)
         {
-            return Ok($"this api should Update Product");
+            return Ok(_productService.Update(dto));
         }
         [HttpDelete]
         public IActionResult Delete(int Id)
